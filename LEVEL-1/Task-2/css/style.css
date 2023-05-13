@@ -526,7 +526,7 @@ h4 {
 }
 
 .form-image {
-  background: url(/img/home/Pattern.svg) no-repeat center left/cover;
+  background: url(../img/home/pattern.svg) no-repeat center left/cover;
   object-fit: cover;
 }
 
